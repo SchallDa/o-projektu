@@ -20,7 +20,7 @@ body {
   text-align: center;
 }
 
-.nadpis {
+.header {
   color: #ffffff;
   font-size: 25px;
   font-weight: 400px;
@@ -45,7 +45,7 @@ body {
   background-color: #6F6868;
 }
 
-.vlakno {
+.fibre {
   max-width: 20%;
   display: block;
   margin-left: auto;
@@ -54,4 +54,12 @@ body {
 
 .text-pink {
   color: #E55670
+}
+
+.bottomPicture {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 30px;
+
 }
